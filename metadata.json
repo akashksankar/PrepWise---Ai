@@ -1,0 +1,7 @@
+{
+  "name": "PrepWise",
+  "description": "AI & ML Powered Competitive Exam Preparation Platform supporting UPSC CSE, Kerala PSC, SSC, RRB, and GATE/CAT with RAG Vector Search, Scikit-Learn Analytics, and Multi-Role Portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
